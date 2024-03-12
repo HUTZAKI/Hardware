@@ -23,6 +23,9 @@
 
 + PS2 XY Joystick: Used for system control.
 
+## Library
+- ssd1306 for display OLED [`ssd1306`](https://github.com/micropython/micropython-esp32/blob/esp32/drivers/display/ssd1306.py)
+
 ## Directories
 ```md
 ❖(CVMC)❖
@@ -46,12 +49,12 @@
 
 - Node-red
     - Flows1
-      - Get API key from Gemini
+      - Get the API key from Gemini
       - Get API line notification from [`API-Line_noti`](https://notify-bot.line.me/doc/en/)
       - `npm install node-red-contrib-google-translate-fixed` for translate node
         
     - Flow2
-      - set new file for storing a log chat and updating the status of table OFSD in server
+      - set a new file for storing a log chat and updating the status of table OFSD in the server
       - `npm install node-red-contrib-countdown` for count time in OFSD mode
 
 - Board1
@@ -60,4 +63,10 @@
   
 - Board2
     - set config.h
-    - connect buzzer and joystick
+    - connected buzzer and joystick
+
+## Developed by
+
+Project members
+1.) Sirapat Panmoon 6610502226
+2.) 
