@@ -1,0 +1,6 @@
+#define WIFI_SSID    ""
+#define WIFI_PASS    ""
+#define MQTT_BROKER  ""
+#define MQTT_USER    "<your-account-name>"
+#define MQTT_PASS    "<your-password>"
+#define TOPIC_PREFIX "<your-account-name>"
