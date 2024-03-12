@@ -28,16 +28,16 @@
 ❖(CVMC)❖
 |
 ├── ⏍ source_code 
-|    ├── board1.py
-|    └── board2.py
+|    ├── board1.py       # Main board for getting and posting Morse code
+|    └── board2.py       # Board for selecting Quick chat, Sentence, and OFSD mode
 |
 ├── ⏍ Node-red
-|    ├── flows1.json
-|    └── flows2.json
+|    ├── flows1.json     # setting API Gemini Ai and Line notification
+|    └── flows2.json     # Creat template chat and timer in OFSD
 |
-├── README.md
+├── README.md            # Detail
 |
-└── LICENSE
+└── LICENSE              # License
 ```
 
 
