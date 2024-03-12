@@ -8,14 +8,14 @@
 - &nbsp;System that helps individuals with office syndrome change their working posture while seated.
 
 ## Hardware equipment
-- 2 x ESP32-S3 Devkit:
++ 2 x ESP32-S3 Devkit:
   - Board 1: Used for sending and receiving data from the Morse code to the IoT system via MQTT broker.
   - Board 2: Used for sending data to the IoT system via MQTT broker.
-- 2 x LDR: Used for character segmentation.
-- OLED Display: Used for visualization.
-- Switch: Used for creating Morse code.
-- Active Buzzer: Used for sound transmission.
-- PS2 XY Joystick: Used for system control.
++ 2 x LDR: Used for character segmentation.
++ OLED Display: Used for visualization.
++ Switch: Used for creating Morse code.
++ Active Buzzer: Used for sound transmission.
++ PS2 XY Joystick: Used for system control.
 
 
 
