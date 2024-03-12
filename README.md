@@ -23,7 +23,19 @@
 
 + PS2 XY Joystick: Used for system control.
 
-
+## Directories
+|
+├-- ⏍ source_code 
+|    ├- board1.py
+|    └- board2.py
+|
+├-- ⏍ Node-red
+|    ├- flows1.json
+|    └- flows2.json
+|
+├-- README.md
+|
+└-- LICENSE
 
 
 
