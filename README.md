@@ -42,7 +42,7 @@
 |
 └── LICENSE              # License
 ```
-## Set up
+## Configuration
 
 - Node-red
     - Flows1
