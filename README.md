@@ -68,8 +68,8 @@
 ## Developed by
 
 #### &nbsp;&nbsp;<b>Project developer</b>
-1.) &nbsp;Sirapat Panmoon - 6610502226\
-2.) &nbsp;Pakin Siyaratchakhun- 6610502188
+- &nbsp;Sirapat Panmoon - 6610502226\
++ &nbsp;Pakin Siyaratchakhun- 6610502188
 
 #### &nbsp;&nbsp;<b>Porject course</b>
 - Introduction to Computer Hardware Development 01204114-65
