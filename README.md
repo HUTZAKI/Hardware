@@ -45,9 +45,13 @@
     - Flows1
       - Get API key from Gemini
       - Get API line notification from [`API-Line_noti`](https://notify-bot.line.me/doc/en/)
-      - npm install node-red-contrib-google-translate-fixed for translate node
+      - `npm install node-red-contrib-google-translate-fixed` for translate node
         
     - Flow2
-      - set directories for storing a log chat in server
-      - 
+      - set new file for storing a log chat and updating the status of table OFSD in server
+      - `npm install node-red-contrib-countdown` for count time in OFSD mode
 
+- Board1
+    - connected buzzer
+- Board2
+    - connect buzzer and joystick
