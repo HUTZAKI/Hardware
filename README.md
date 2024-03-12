@@ -36,6 +36,16 @@
 ├── README.md\
 |\
 └── LICENSE\
+- Root
+  - Folder 1
+    - Subfolder 1
+      - File 1
+      - File 2
+    - Subfolder 2
+      - File 3
+  - Folder 2
+    - File 4
+    - File 5
 
 
 
