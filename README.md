@@ -25,7 +25,7 @@
 
 ## Directories
 ```md
-<b>(CVMC)</b>
+❖(CVMC)❖
 |
 ├── ⏍ source_code 
 |    ├── board1.py
