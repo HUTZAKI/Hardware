@@ -67,9 +67,16 @@
 
 ## Developed by
 
-### &nbsp;&nbsp;<b>Project developer</b>
+#### &nbsp;&nbsp;<b>Project developer</b>
 &nbsp;&nbsp;&nbsp;1.) &nbsp;Sirapat Panmoon - 6610502226\
-&nbsp;&nbsp;&nbsp;2.) &nbsp;Pakin Siyaratchakhun- 6610502188\
+&nbsp;&nbsp;&nbsp;2.) &nbsp;Pakin Siyaratchakhun- 6610502188
+
+#### &nbsp;&nbsp;<b>Porject course</b>
+- Introduction to Computer Hardware Development 01204114-65
+- 
+#### &nbsp;&nbsp;<b>Porject course</b>
+Faculty of Computer Engineering at Kasetsart University, Bangkok, Thailand
+
 
 
 
