@@ -47,4 +47,7 @@
       - Get API line notification from [`API-Line_noti`](https://notify-bot.line.me/doc/en/)
       - npm install node-red-contrib-google-translate-fixed for translate node
         
+    - Flow2
+      - set directories for storing a log chat in server
+      - 
 
