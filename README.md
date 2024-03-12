@@ -55,6 +55,9 @@
       - `npm install node-red-contrib-countdown` for count time in OFSD mode
 
 - Board1
+    - set config.h
     - connected buzzer
+  
 - Board2
+    - set config.h
     - connect buzzer and joystick
