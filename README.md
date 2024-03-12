@@ -31,19 +31,23 @@
 ❖(CVMC)❖
 |
 ├── ⏍ source_code 
-|    ├── board1.py       # Main board for getting and posting Morse code
-|    └── board2.py       # Board for selecting Quick chat, Sentence, and OFSD mode
+|    ├── board1.py           # Main board for getting and posting Morse code
+|    └── board2.py           # Board for selecting Quick chat, Sentence, and OFSD mode
 |
 ├── ⏍ Node-red
-|    ├── flows1.json     # Setting API Gemini Ai and Line notification
-|    └── flows2.json     # Creat template chat and timer in OFSD
+|    ├── flows1.json         # Setting API Gemini Ai and Line notification
+|    └── flows2.json         # Creat template chat and timer in OFSD
+|
+├── ⏍ schematic
+|    ├── PCB_board1.pdf      # schematic PCB for board1
+|    └── PCB_board2.pdf      # schematic PCB for board2
 |
 ├── ⏍ configure
-|    └── config.h        # Connected to MQTT broker
+|    └── config.h            # Connected to MQTT broker
 |
-├── README.md            # Detail
+├── README.md                # Detail
 |
-└── LICENSE              # License
+└── LICENSE                  # License
 ```
 ## Configuration
 
