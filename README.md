@@ -69,4 +69,4 @@
 
 &nbsp;&nbsp;<b>Project members</b>\
 &nbsp;&nbsp;&nbsp;1.) &nbsp;Sirapat Panmoon - 6610502226\
-&nbsp;&nbsp;&nbsp;2.) &nbsp;
+&nbsp;&nbsp;&nbsp;2.) &nbsp; - 6610502188
