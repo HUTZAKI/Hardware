@@ -39,5 +39,12 @@
 |
 └── LICENSE              # License
 ```
+## Set up
 
+- Node-red
+    - Flows1
+      - Get API key from Gemini
+      - Get API line notification from <p href="https://notify-bot.line.me/doc/en/" >API-line_noti</p>
+      - npm install node-red-contrib-google-translate-fixed for translate node
+        
 
