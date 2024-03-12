@@ -25,18 +25,17 @@
 
 ## Directories
 |
-├-- ⏍ source_code 
-|    ├- board1.py
-|    └- board2.py
+├── ⏍ source_code 
+|    ├── board1.py
+|    └── board2.py
 |
-├-- ⏍ Node-red
-|    ├- flows1.json
-|    └- flows2.json
+├── ⏍ Node-red
+|    ├── flows1.json
+|    └── flows2.json
 |
-├-- README.md
+├── README.md
 |
-└-- LICENSE
-
+└── LICENSE
 
 
 
