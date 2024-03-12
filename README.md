@@ -73,9 +73,8 @@
 
 #### &nbsp;&nbsp;<b>Porject course</b>
 - Introduction to Computer Hardware Development 01204114-65
-- 
 #### &nbsp;&nbsp;<b>Porject course</b>
-Faculty of Computer Engineering at Kasetsart University, Bangkok, Thailand
+-Faculty of Computer Engineering at Kasetsart University, Bangkok, Thailand
 
 
 
