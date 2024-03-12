@@ -67,6 +67,6 @@
 
 ## Developed by
 
-Project members
-1.) Sirapat Panmoon 6610502226
+Project members\
+1.) Sirapat Panmoon 6610502226\
 2.) 
