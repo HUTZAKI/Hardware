@@ -32,8 +32,11 @@
 |    └── board2.py       # Board for selecting Quick chat, Sentence, and OFSD mode
 |
 ├── ⏍ Node-red
-|    ├── flows1.json     # setting API Gemini Ai and Line notification
+|    ├── flows1.json     # Setting API Gemini Ai and Line notification
 |    └── flows2.json     # Creat template chat and timer in OFSD
+|
+├── ⏍ configure
+|    └── config.h        # Connected to MQTT broker
 |
 ├── README.md            # Detail
 |
